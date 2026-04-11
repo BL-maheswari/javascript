@@ -39,13 +39,7 @@ function test() {
 }
 test();
 
-//6.6. Hoisting with Classes
-// const obj = new MyClass(); // ReferenceError
-// class MyClass {
-//     constructor() {
-//         this.name = "Mahima Bhardwaj";
-//     }
-// }
+
 
 //7.7. Re-declaring Variables with var
 

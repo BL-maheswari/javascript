@@ -53,12 +53,7 @@ console.log(arr); // [1, 2, 3]
 arr7.shift();  
 console.log(arr7); // [2, 3]
 
-//9. sort() → Sort array
-let a = [2, 3];
-a.unshift(1);  
-console.log(a); // [1, 2, 3]
-a.shift();  
-console.log(a); // [2, 3]
+
 
 //10. reverse() → Reverse array
 
